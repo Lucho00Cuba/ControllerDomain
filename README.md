@@ -1,4 +1,4 @@
-# Controller Domain for Linux (Samba)
+# Controller Domain
 
 ![CD](./img/CD.png)
 
