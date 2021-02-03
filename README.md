@@ -1,6 +1,6 @@
 # Controller Domain
 
-![CD](./img/CD.png)
+![CD](https://i0.wp.com/hardsoftsecurity.es/wp-content/uploads/2015/01/logo_samba.png)
 
 ## Requisitos
 
@@ -10,5 +10,5 @@
 ## Modo de Ejecucion
 
 ```shell
-lucho@sysadmin]─[~] python3 main.py  
+lucho@sysadmin]─[~] python3 core.py
 ```
